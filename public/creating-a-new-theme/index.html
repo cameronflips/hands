@@ -359,7 +359,7 @@ WARN: 2014/09/29 Unable to locate layout: [404.html]
 0 categories created
 in 2 ms
 Serving pages from /Users/quoha/Sites/zafta/public
-Web Server is available at http://localhost:1313
+Web Server is available at https://localhost:1313
 Press Ctrl+C to stop
 </code></pre>
 
@@ -602,7 +602,7 @@ WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
 in 2 ms
 Watching for changes in /Users/quoha/Sites/zafta/content
 Serving pages from /Users/quoha/Sites/zafta/public
-Web Server is available at http://localhost:1313
+Web Server is available at https://localhost:1313
 Press Ctrl+C to stop
 INFO: 2014/09/29 File System Event: [&quot;/Users/quoha/Sites/zafta/themes/zafta/layouts/index.html&quot;: MODIFY|ATTRIB]
 Change detected, rebuilding site
@@ -678,7 +678,7 @@ $ cat public/index.html
 &lt;html&gt; 
 &lt;body&gt; 
   &lt;p&gt;hugo says hello!&lt;/p&gt; 
-&lt;script&gt;document.write('&lt;script src=&quot;http://' 
+&lt;script&gt;document.write('&lt;script src=&quot;https://' 
         + (location.host || 'localhost').split(':')[0] 
     + ':1313/livereload.js?mindelay=10&quot;&gt;&lt;/' 
         + 'script&gt;')&lt;/script&gt;&lt;/body&gt; 
@@ -1066,11 +1066,11 @@ i'm speechless
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;body&gt;
-    &lt;h1&gt;&lt;a href=&quot;http://localhost:1313/post/theme/&quot;&gt;creating a new theme&lt;/a&gt;&lt;/h1&gt;
-    &lt;h1&gt;&lt;a href=&quot;http://localhost:1313/about-time/&quot;&gt;about&lt;/a&gt;&lt;/h1&gt;
-    &lt;h1&gt;&lt;a href=&quot;http://localhost:1313/post/second-post/&quot;&gt;second&lt;/a&gt;&lt;/h1&gt;
-    &lt;h1&gt;&lt;a href=&quot;http://localhost:1313/post/first-post/&quot;&gt;first&lt;/a&gt;&lt;/h1&gt;
-&lt;script&gt;document.write('&lt;script src=&quot;http://'
+    &lt;h1&gt;&lt;a href=&quot;https://localhost:1313/post/theme/&quot;&gt;creating a new theme&lt;/a&gt;&lt;/h1&gt;
+    &lt;h1&gt;&lt;a href=&quot;https://localhost:1313/about-time/&quot;&gt;about&lt;/a&gt;&lt;/h1&gt;
+    &lt;h1&gt;&lt;a href=&quot;https://localhost:1313/post/second-post/&quot;&gt;second&lt;/a&gt;&lt;/h1&gt;
+    &lt;h1&gt;&lt;a href=&quot;https://localhost:1313/post/first-post/&quot;&gt;first&lt;/a&gt;&lt;/h1&gt;
+&lt;script&gt;document.write('&lt;script src=&quot;https://'
         + (location.host || 'localhost').split(':')[0]
 		+ ':1313/livereload.js?mindelay=10&quot;&gt;&lt;/'
         + 'script&gt;')&lt;/script&gt;&lt;/body&gt;

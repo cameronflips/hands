@@ -23,11 +23,11 @@ publishDir = "docs"
 [menu]
   [[menu.nav]]
     name = "-_-(α.logs)"
-    url = "http://alpha.poliw.at"
+    url = "https://alpha.poliw.at"
     weight = 1
   [[menu.nav]]
     name = "-_-β.logs"
-    url = "http://alpha.poliw.at"
+    url = "https://alpha.poliw.at"
     weight = 2
   [[menu.nav]]
     name = "About"
@@ -35,5 +35,5 @@ publishDir = "docs"
     weight = 4
   [[menu.nav]]
     name = "γ.logs"
-    url = "http://gamma.poliw.at"
+    url = "https://gamma.poliw.at"
     weight = 3

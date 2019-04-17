@@ -128,3 +128,22 @@ and Im only complaining to some degree cause I’m not causing it
 will I stop when I cause it a couple times
 
 I think so
+
+
+
+**416AM**
+
+WOW JUST GOT HANDS WORKING ONLINE TOOK 4 HOURS BUT LEARNED A LOT HOLY SHIT
+
+```
+
+dope ont eh keys
+light on my feet
+legolas on lappy
+surfing to the keep
+only I get it
+taken years to splain it
+only you get it
+takin you years to behave it 
+
+```
