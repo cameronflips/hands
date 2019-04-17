@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on handWritten . poliW,.....at</title>
+    <link>https://poliw.at/post/</link>
+    <description>Recent content in Posts on handWritten . poliW,.....at</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Apr 2019 03:41:17 -0700</lastBuildDate>
+    
+	<atom:link href="https://poliw.at/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Birth of Handsy</title>
+      <link>https://poliw.at/birth-of-handsy.poliwat/</link>
+      <pubDate>Sat, 13 Apr 2019 03:41:17 -0700</pubDate>
+      
+      <guid>https://poliw.at/birth-of-handsy.poliwat/</guid>
+      <description>0341pm
+Dashed</description>
+    </item>
+    
+  </channel>
+</rss>

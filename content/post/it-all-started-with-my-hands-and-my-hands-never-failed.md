@@ -1,0 +1,130 @@
+---
+title: "It All Started With My Hands and My Hands Never Failed"
+date: 2019-04-16T23:50:38-07:00
+draft: false
+---
+
+
+**1151pm**
+
+# yet
+
+___
+
+
+{{< alert "secondary" >}}
+
+ahahahaha
+
+{{< /alert >}}
+
+<h3>
+  {{< badge "danger" >}}
+  worked all day on
+
+  {{< /badge >}}
+</h3>
+
+
+{{< border "dashed thick" >}}
+{{< color "secondary" >}}
+
+<h1><a href="🌏.fm"> 🌏.fm </a></h1>
+
+{{< /color >}}
+{{< /border >}}S
+
+qq
+qqqxxqxqxqq]qqqxxqxqxqq
+
+```
+
+worked all day on
+
+sunny day coded n uploaded av
+
+n downloaded native instruments
+
+n spliff in alleyway with cam
+
+n g and ts n next pbd ep question
+
+n found n all nighter inbound
+
+```
+
+{{< border "dashed thick" >}}
+
+sunny day coded n uploaded av
+n downloaded native instruments
+n spliff in alleyway with cam
+n g and ts n next pbd ep question
+n found n all nighter inbound
+
+{{< /border >}}
+
+
+# WHEN HASAS VAE MY HANDS EVR FIALED ME ?!
+
+
+
+its hackathon time and a wonderful time
+
+```
+
+I ONLY FUCK WITH EMOJI DOMAINS
+
+🌏.fm
+🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm🌏.fm🌏.fmBALLLS 🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm72🌏.fm🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm
+🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm🌏.fm
+
+```
+
+
+**116AM**
+
+is this our first fight ? yeah but not really she's just pmsing she said it herself
+
+but aha damn what a couch montage it would be.
+
+I might pass out on the couch tonight the ghost is scary and we just decided earlier to roll with the what are you trying to do before you die thing for ep 3 and Im going to make a fucking pot of coffee and not worry about anything else aside from getting this studio workflow chain setup and then the urls on point NOW NOW NOW NOW NOW NOW NOW
+
+___
+
+
+**136 Am**
+
+-=—==—=-=
+
+inside the wave
+
+are a team of email people sending out a mass email wave,
+
+of going on checking what you MISSED ON IG at 130 AM
+
+=-=-=-=-=-=-=
+
+and Im only complaining to some degree cause I’m not causing it
+
+will I stop when I cause it a couple times
+
+I think so

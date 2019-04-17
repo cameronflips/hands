@@ -1,0 +1,39 @@
+baseURL = "https://hands.poliw.at"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "handWritten . POLIW.AT"
+theme = "papercss-hugo-theme"
+googleAnalytics = ""
+publishDir = "docs"
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  post = "/:filename/"
+
+[imaging]
+  quality = 99
+
+[params]
+  homeMetaContent = "Composer's Logs, used for songwriting"
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat = "Jan 2, 2006"
+
+[menu]
+  [[menu.nav]]
+    name = "-_-(α.logs)"
+    url = "http://alpha.poliw.at"
+    weight = 1
+  [[menu.nav]]
+    name = "-_-β.logs"
+    url = "http://alpha.poliw.at"
+    weight = 2
+  [[menu.nav]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+  [[menu.nav]]
+    name = "γ.logs"
+    url = "http://gamma.poliw.at"
+    weight = 3
