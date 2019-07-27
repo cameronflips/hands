@@ -5,6 +5,16 @@ aliases = ["about"]
 author = "poliw.at"
 +++
 
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_donations" />
+<input type="hidden" name="business" value="UKR3M745GTB56" />
+<input type="hidden" name="item_name" value="To continue making and sharing free and open source art for all humans" />
+<input type="hidden" name="currency_code" value="USD" />
+<input type="image" src="http://i.imgur.com/heq8JTN.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+
 **1214AM**
 
 wtf is this about i dont need an about
